@@ -1,0 +1,68 @@
+const  projectData = [
+    {
+        image: '/work/3.png?url=imageUrlHere',
+        category: 'Portraits',
+        date: 'February 11, 2024',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/5.png?url=imageUrlHere',
+        category: 'Models',
+        date: 'April 22, 2023',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/6.png?url=imageUrlHere',
+        category: 'Models',
+        date: 'Nov 05, 2023',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/7.png?url=imageUrlHere',
+        category: 'Corporate',
+        date: 'Jan 14, 2021',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/8.png?url=imageUrlHere',
+        category: 'Fashion',
+        date: 'Jan 31, 2023',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/9.png?url=imageUrlHere',
+        category: 'Fashion',
+        date: 'Aug 31, 2022',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/10.png?url=imageUrlHere',
+        category: 'Corporate',
+        date: 'Mar 11, 2013',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+    {
+        image: '/work/3.png?url=imageUrlHere',
+        category: 'Models',
+        date: 'Oct 23, 2019',
+        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem recusandae vitae molestias quae laboriosam, illo velit cumque corrupti.',
+        link: '/',
+        codepen: '/',
+    },
+]
+
+export default projectData
