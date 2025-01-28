@@ -41,6 +41,7 @@ const infoData = [
 
 const About = () => {
 	return (
+		/* eslint-disable react/no-unescaped-entities */
 		<section className="pb-12 xl:py-24">
 			<div className="container mx-auto">
 				<Fade direction="up" delay={400} cascade damping={1e-1} triggerOnce={true}>
