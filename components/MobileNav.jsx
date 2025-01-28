@@ -8,7 +8,7 @@ import { AlignJustify } from "lucide-react";
 const MobileNav = () => {
 	return (
 		<Sheet>
-			<SheetTrigger>
+			<SheetTrigger ariaLabel="Burger Menu">
 				<AlignJustify className="cursor-pointer" />
 			</SheetTrigger>
 			<SheetContent>
