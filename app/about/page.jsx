@@ -49,7 +49,7 @@ const About = () => {
 						About me
 					</h2>
 				</Fade>
-			</div>
+			
 			<div className="flex flex-col xl:flex-row xl:flex xl:gap-x-20 xl:justify-center">
 				{/* Image */}
 				<div className="relative flex-1 flex justify-center xl:justify-end">
@@ -105,6 +105,7 @@ const About = () => {
 						</div>
 					</div>
 				</div>
+			</div>
 			</div>
 		</section>
 	);
