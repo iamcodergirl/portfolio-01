@@ -65,7 +65,7 @@ const About = () => {
 						<div className="text-center xl:text-left">
 							<Fade direction="right" delay={400} cascade damping={1e-1} triggerOnce={true}>
 								<h3 className="h3 mb-4">
-									Let&apos;s plan your perfect photoshoot
+									Let's plan your perfect photoshoot
 								</h3>
 							</Fade>
 							<Fade direction="right" delay={600} cascade damping={1e-1} triggerOnce={true}>

@@ -47,7 +47,7 @@ const Hero = () => {
 							triggerOnce={true}
 						>
 							<h1 className="h1 uppercase">
-								Let&apos;s make magic!
+								Let's make magic!
 							</h1>
 						</Fade>
 
