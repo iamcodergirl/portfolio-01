@@ -120,7 +120,7 @@ const Hero = () => {
 						{/* Banner Image */}
 						<div className="hidden xl:flex relative">
 							<HeroImage
-								imgSrc="/about/photography.svg"
+								imgSrc="/public/about/photography.svg"
 								containerStyles="w-[550px] h-[475px] bg-no-repeat relative bg-bottom"
 							/>
 						</div>
