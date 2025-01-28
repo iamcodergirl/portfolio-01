@@ -21,6 +21,7 @@ import HeroImage from "./HeroImage";
 import Badge from "./Badge";
 
 const Hero = () => {
+	/* eslint-disable react/no-unescaped-entities */
 	return (
 		<section className="py-12 xl:py-24 h-[auto] bg-bottom">
 			<div className="container mx-auto">
