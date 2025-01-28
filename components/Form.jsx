@@ -14,6 +14,7 @@ import {
 
 const Form = () => {
 	return (
+        /* eslint-disable react/no-unescaped-entities */
 		<form className="flex flex-col gap-y-4">
 			{/* first Name */}
             <div className="relative flex items-center">

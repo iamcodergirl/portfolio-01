@@ -31,6 +31,7 @@ const Pricing = () => {
   }
 
 	return (
+		/* eslint-disable react/no-unescaped-entities */
 		<section className="pt-12 pb-12 overflow-y-hidden">
 			<div className="container mx-auto">
 				<Fade direction="up" delay={400} cascade damping={1e-1} triggerOnce={true}>
