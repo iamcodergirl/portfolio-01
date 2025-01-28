@@ -56,7 +56,7 @@ const About = () => {
 					<Fade direction="left" delay={600} cascade damping={1e-1} triggerOnce={true}>
 						<HeroImage
 							containerStyles="w-[450px] h-[450px] xl:w-[505px] xl:h-[505px] bg-no-repeat relative"
-							imgSrc="/about/profile.png"
+							imgSrc="./about/profile.png"
 						/>
 					</Fade>
 				</div>
