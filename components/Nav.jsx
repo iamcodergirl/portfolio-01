@@ -11,7 +11,7 @@ const links = [
 	{ path: "/contact", name: "contact" },
 ];
 
-const Nav = ({ containerStyles, linkStyles, underlineStyles }) => {
+const Nav = ({ containerStyles, linkStyles, underlineStyles, onClick }) => {
 	const path = usePathname();
 
 	return (
@@ -22,6 +22,7 @@ const Nav = ({ containerStyles, linkStyles, underlineStyles }) => {
 						href={link.path}
 						key={index}
 						className={`capitalize ${linkStyles}`}
+						onClick={onClick}
 					>
 						{link.path === path && (
 							<motion.span
