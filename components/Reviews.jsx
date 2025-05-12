@@ -14,31 +14,31 @@ import Image from 'next/image';
 
 const reviewData = [
 	{
-		avatar: './reviews/avatar-1.png',
+		avatar: '/reviews/avatar-1.png',
 		name: 'Jenifer',
 		job: 'Chief',
 		review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero fugiat inventore, laboriosam provident et ratione, expedita, quam reprehenderit blanditiis odit laborum modi architecto!',
 	},
 	{
-		avatar: './reviews/avatar-2.png',
+		avatar: '/reviews/avatar-2.png',
 		name: 'Lopes Chris',
 		job: 'CEO',
 		review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero fugiat inventore, laboriosam provident et ratione, expedita, quam reprehenderit blanditiis odit laborum modi architecto!',
 	},
 	{
-		avatar: './reviews/avatar-3.png',
+		avatar: '/reviews/avatar-3.png',
 		name: 'Hamilton',
 		job: 'COO',
 		review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero fugiat inventore, laboriosam provident et ratione, expedita, quam reprehenderit blanditiis odit laborum modi architecto!',
 	},
 	{
-		avatar: './reviews/avatar-4.png',
+		avatar: '/reviews/avatar-4.png',
 		name: 'Lucifer',
 		job: 'APP Developer',
 		review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero fugiat inventore, laboriosam provident et ratione, expedita, quam reprehenderit blanditiis odit laborum modi architecto!',
 	},
 	{
-		avatar: './reviews/avatar-5.png',
+		avatar: '/reviews/avatar-5.png',
 		name: 'Mark Steve',
 		job: 'Chief',
 		review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero fugiat inventore, laboriosam provident et ratione, expedita, quam reprehenderit blanditiis odit laborum modi architecto!',
