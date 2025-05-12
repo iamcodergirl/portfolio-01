@@ -34,7 +34,7 @@ const icons = [
 
 const Socials = ({ containerStyles, iconStyle }) => {
 	return (
-		<SocialsWrapper className={`${containerStyles}`}>
+		<div className={`${containerStyles}`}>
 			{icons.map((icon, index) => {
 				return (
 					<Link key={index} href={icon.path}>
@@ -42,15 +42,8 @@ const Socials = ({ containerStyles, iconStyle }) => {
 					</Link>
 				);
 			})}
-		</SocialsWrapper>
+		</div>
 	);
 };
 
 export default Socials;
-
-import styled from "styled-components";
-const SocialsWrapper = styled.div`
-	background: transparent;
-	border-radius: 3px;
-	padding: 0.25em 1em;
-`;

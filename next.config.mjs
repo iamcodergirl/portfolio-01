@@ -1,13 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
-    compiler: {
-        styledComponents: {
-            fileName: false,
-            ssr: false,
-        },
-        
-    }
+    output: 'export',   
 };
 
 export default nextConfig;
